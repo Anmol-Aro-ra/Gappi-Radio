@@ -1,0 +1,17 @@
+# API keys - never upload
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Personal data files
+data/expenses.csv
+data/notes.txt
+
+# Logs
+logs/
+
+# VS Code
+.vscode/
